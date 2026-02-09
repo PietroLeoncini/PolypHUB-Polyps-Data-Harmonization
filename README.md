@@ -1,6 +1,3 @@
-# PolypHUB-Polyps-Data-Harmonization
-
-cat > README.md << 'EOF'
 # PolypHUB - Polyps Data Harmonization
 
 ## 🚧 Work in Progress
